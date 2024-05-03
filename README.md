@@ -10,3 +10,15 @@ MovieStream est une application web qui permet aux utilisateurs de découvrir, d
 - **Ajouter des Critiques :** Les utilisateurs peuvent ajouter des critiques aux films, y compris une note et des commentaires pour partager leurs avis avec les autres.
 - **Films Favoris :** Les utilisateurs peuvent marquer des films comme favoris pour suivre leurs films préférés.
 - **Design Adaptatif :** L'application est optimisée pour différentes tailles d'écran, garantissant une expérience fluide sur tous les appareils.
+
+## Technologies Utilisées
+
+- HTML, CSS, JavaScript
+- PHP (Backend)
+- MySQL (Base de Données)
+- Bootstrap (Framework Frontend)
+
+## Crédits
+
+MovieStream a été développé par Wyart Nathan. N'hésitez pas à contribuer au projet en soumettant des rapports de bogues, des demandes de fonctionnalités ou des pull requests.
+
